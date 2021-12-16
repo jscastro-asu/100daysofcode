@@ -21,7 +21,13 @@ Day 5
 - Loops
 
 Day 6
-This module is in Reeborg. One of the exercise is located at https://bit.ly/3m8okRl.
 - Functions and Karel
+
+This module is in Reeborg. Exercises with my answers are at:
+
+https://bit.ly/3m8okRl
+
+https://bit.ly/30wy3t5
+
 
 
