@@ -25,9 +25,11 @@ Day 6
 
 This module is in Reeborg. Exercises with my answers are at:
 
-https://bit.ly/3m8okRl
+Hurdle 2 https://bit.ly/3m8okRl
 
-https://bit.ly/30wy3t5
+Hurdle 3 https://bit.ly/30wy3t5
+
+Hurdle 4 https://bit.ly/3oY8JW8
 
 
 
