@@ -15,7 +15,7 @@ user_letter = str.lower((input("Guess a letter: ")))
 
 for word in chosen_word:
 
-  if word in chosen_word == user_letter:
+  if word == user_letter:
     print("Right")
   else:
     print("Wrong")
