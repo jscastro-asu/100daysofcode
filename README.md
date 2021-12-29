@@ -33,5 +33,17 @@ Hurdle 4 https://bit.ly/3oY8JW8
 
 Maze https://bit.ly/3sgtiPK
 
+Day 7
+- Hangman Project
+- Used the following from previous modules
 
-
+  -for and while loops
+  -if/elif/else
+  -list
+  -for _ in range()
+  -modules
+  
+ Day 8
+ 
+ - Funcions with Inputs
+ - Arguments and Parameters
