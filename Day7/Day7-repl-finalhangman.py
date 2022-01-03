@@ -16,7 +16,6 @@ lives = 6
 (exec(open('hangman_art.py').read()))
 print(logo)
 
-
 #Testing code
 print(f'Pssst, the solution is {chosen_word}.')
 
