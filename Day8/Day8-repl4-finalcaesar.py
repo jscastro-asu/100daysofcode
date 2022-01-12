@@ -1,6 +1,6 @@
 
-# from art import logo
-# print(logo)
+from art import logo
+print(logo)
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
@@ -27,7 +27,7 @@ while not end_game:
 
   caesar(entered_text=text,your_shift=shift,preferred_direction=direction)
 
-  shift = shift % 26
+  shift = shift % 26 #if user enters value more than the numbers of alphabet
 
   restart_game = input("Would you like to restart? Type 'yes' or 'no'")
   if restart_game == "no":
