@@ -19,7 +19,7 @@ operations = {
 
 def calculator():
 
-  num1 = int(input("Enter a number: "))
+  num1 = float(input("Enter a number: "))
 
   for ops in operations:
     print(ops)
@@ -28,7 +28,7 @@ def calculator():
   while not end_operation:
 
     ops_symbol = input("Choose an operation: ")
-    num2 = int(input("Next number: "))
+    num2 = float(input("Next number: "))
     calc = operations[ops_symbol]
     ans = calc(num1, num2)
 
