@@ -50,15 +50,28 @@ Day 7
 
 Day 9
 
+- Dictionary
+- Nested dictionary
+
 Day 10
+
+- Functions with outputs
 
 Day 11
 
+- BlackJack Capstone
+
 Day 12
+
+- Scope and Number Guessing
 
 Day 13
 
+- Debugging
+
 Day 14
+
+- Higher Lower Game
 
 Day 15 - Intermediate
 Coffee Machine Program Requirements
