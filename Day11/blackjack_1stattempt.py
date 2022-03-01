@@ -1,13 +1,9 @@
 import random
 
 def play_again():
-  play_again = input("Play again?")
-  if play_again == "y":
+  while play_again == input("Play blackjack?") == "y":
     deal_card(play_again)
-  else:
-    print("Bye Felicia.")
     
-
 def deal_card(play_again):
 
   cards = [11,2,3,4,5,6,7,8,9,10,10,10,10]
@@ -68,9 +64,9 @@ def deal_card(play_again):
 
 
         
-
-deal_card(play_again)
 play_again()
+deal_card(play_again)
+
 
 #incomplete
     
