@@ -6,74 +6,52 @@ This is from my Udemy class led by Angela Yu from AppBrewery.
 **BEGINNER**
 
 Day 1
-- Variables
-
+-Variables
 Day 2
-- Data Types and Manipulate Strings
-
+-Data Types and Manipulate Strings
 Day 3
-- Control Flow and Logical Operators
-
+-Control Flow and Logical Operators
 Day 4
-- Randomization and Lists
-
+-Randomization and Lists
 Day 5
-- Loops
-
+-Loops
 Day 6
-- Functions and Karel
-
-This module is in Reeborg. Exercises with my answers are at:
+-Functions and Karel
+-This module is in Reeborg. Exercises with my answers are at:
 
 Hurdle 2 https://bit.ly/3m8okRl
-
 Hurdle 3 https://bit.ly/30wy3t5
-
 Hurdle 4 https://bit.ly/3oY8JW8
-
 Maze https://bit.ly/3sgtiPK
 
 Day 7
 - Hangman Project
 - Used the following from previous modules
-
   -for and while loops
   -if/elif/else
   -list
   -for _ in range()
   -modules
-  
  Day 8
- 
  - Funcions with Inputs
  - Arguments and Parameters
-
 Day 9
-
 - Dictionary
 - Nested dictionary
-
 Day 10
-
 - Functions with outputs
-
 Day 11
-
-- BlackJack Capstone
-
+- BlackJack Game Capstone
 Day 12
-
 - Scope and Number Guessing
-
 Day 13
-
 - Debugging
-
 Day 14
-
 - Higher Lower Game
 
-Day 15 - Intermediate
+**INTERMEDIATE**
+
+Day 15 
 Coffee Machine Program Requirements
 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
 a. Check the user’s input to decide what to do next.
@@ -131,5 +109,22 @@ Money: $2.5
 b. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If
 latte was their choice of drink.
 
+Day16
+- Coffee Maker OOP
+- Money Machine OOP
+
+Day 17
+- Quiz Brain Game
+
+Day 18
+- Turtle Stuff
+- Hirst Dots
+
+Day 19
+- etch-a-sketch game
+- turtle race game
+
+Day 20
+- snake game
 
 
