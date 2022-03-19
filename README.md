@@ -1,7 +1,4 @@
-**100daysofcode**
-
-Python Learning Journey
-This is from my Udemy class led by Angela Yu from AppBrewery.
+Python Learning AppBrewery #100daysofcode
 
 **BEGINNER**
 
@@ -94,7 +91,43 @@ Day 19
 - Etch-a-sketch game
 - Turtle race game - race to a finish line
 
-Day 20
+Day 20 and 21
 - Snake game - nokia 3310 
+	1. create snake body
+	2. move the snake
+	3. control snake
+	4. food creation in random places + collision
+	5. create scoreboard
+	6. detect wall collision
+	7. detect tail collision
+
+Day 22
+- Pong, arcade game
+
+Day 23
+- Turtle crossing Capstone project
+
+Day 24
+- Files Ditectories Paths
+
+Day 25
+- CSV data and Pandas Lib
+
+Day 26
+- List comprehension and NATO alphabet
+
+Day 27
+- Tkinter. *args, **kwargs and GUI
+
+Day 28
+- Dynamic Typing and Pomodoro Gui App
+
+Day 29
+- Password manager GUI app with Tkinter
+
+Day 30
+- Errors, Exceptions and JSON data
+
+
 
 
