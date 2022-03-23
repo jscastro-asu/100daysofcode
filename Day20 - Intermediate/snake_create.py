@@ -23,7 +23,7 @@ class Snake:
             snake_body.goto(start) # starting coordinates
             self.segment.append(snake_body) # append the body to the snake head
 
-    #moving snake to previous location of the succeding segments
+    # moving snake to previous location of the succeeding segments
     def move_snake(self):
         # note start-stop-step; this is head to tail 
         for seg in range(len(self.segment) -1, 0, -1):
@@ -33,3 +33,11 @@ class Snake:
             self.segment[seg].goto(x,y)
         self.segment[0].penup() # so there is no tail line
         self.segment[0].forward(20)
+
+    # control snake
+
+    # collision tail, wall
+
+    # keep score
+
+    
