@@ -41,25 +41,6 @@ while not game_over:
             exit()
 
 
-            
-
-            
-
-
-
-
-
-
-
-        
-
-# if all states are added total of 50, end the game
-
-# record score, record highest score, add timer
-
-
-
-
 
 
 turtle.mainloop()
