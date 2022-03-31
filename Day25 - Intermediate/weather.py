@@ -34,8 +34,13 @@ w = pd.read_csv('weather_data.csv')
 # print(f)
 
 
-#ways of calling column
-print(w["condition"])
+#ways of calling column / both has the same outcome
+# print(w["condition"])
+# print(w.condition)
 
+#get row data
+print(w[w.day == "Monday"])
+print(w[w.temp == w.temp.max()])
 
-
+mon = w[w.day == "Monday"]
+print(mon.condition)
