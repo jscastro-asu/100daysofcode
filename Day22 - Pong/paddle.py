@@ -1,8 +1,5 @@
 from turtle import Turtle
 
-R_POS = [(350,0)]
-L_POD = [(-350,0)]
-
 class Paddle(Turtle):
 
     def __init__(self, position):
@@ -11,12 +8,11 @@ class Paddle(Turtle):
         self.color("white")
         self.shapesize(stretch_wid=5, stretch_len=1)
         self.penup()
-        self.goto(position)
+        self.goto(position) #coordinates
 
     def scroll_up(self):
         y = self.ycor() + 20
         self.goto(self.xcor(), y)
-
 
     def scroll_down(self):
         y = self.ycor() - 20
