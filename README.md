@@ -3,22 +3,21 @@
 <br>
 Once you exit the game it downloads you a list of the remaining states you did not guess.
 <br>
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161676392-9d86273d-967d-4e44-8020-8f817a27e1ff.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/161676485-1a63c0f2-4b6a-4ea6-b43f-555992fd66ca.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161676392-9d86273d-967d-4e44-8020-8f817a27e1ff.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/161676485-1a63c0f2-4b6a-4ea6-b43f-555992fd66ca.png">
 <br>
 **Day 20 - 21 Snake Game**
 <br>
 Your Nokia Snake Game but my food is a Turtle.
 <br>
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161677049-29c9cbbc-bb18-4ea6-99d8-00dde4ec1c0d.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161677049-29c9cbbc-bb18-4ea6-99d8-00dde4ec1c0d.png">
 <br>
 **Day 19 Turtle Race**
 <br>
 Place your bet:
 <br>
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/56638573/161678703-28f14ea2-6a46-4359-bb7e-5cf8ca6d2cbd.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/161678703-28f14ea2-6a46-4359-bb7e-5cf8ca6d2cbd.png">
 Game On:
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161678766-c4d70e00-98c5-43f4-847b-4be4b36e4bbc.png">
-
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161679054-d0ec7748-aa2d-4605-8ffa-ffdffe198ae2.png">
 
 
 
@@ -42,7 +41,7 @@ Day 4
 
 Day 5
 - Loops
-- <img width="693" alt="image" src="https://user-images.githubusercontent.com/56638573/161674500-2ef948b3-3ddc-4a9f-8abb-ca494461f38f.png">
+
 
 
 Day 6
