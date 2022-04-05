@@ -5,6 +5,7 @@ import random
 
 s = Screen()
 s.setup(width=500, height=400)
+s.title("TURTLE RACE")
 
 
 start_race = False
@@ -55,9 +56,9 @@ while start_race:
 
             # winner
             if winner == player_bet:
-                print(f"Your {winner} turtle won.")
+                t.write(f"*YOUR {player_bet} TURTLE WON*", align = "center", font = ("Courier",24,"bold"))
             else:
-                print(f"Oops, winner is {winner} turtle.")
+                t.write(f"*THE {winner} TURTLE WON*", align = "center", font = ("Courier",24,"bold"))
 
 
 
