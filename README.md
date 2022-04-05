@@ -1,3 +1,28 @@
+
+**Day 25 Guess the States**
+<br>
+Once you exit the game it downloads you a list of the remaining states you did not guess.
+<br>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161676392-9d86273d-967d-4e44-8020-8f817a27e1ff.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/161676485-1a63c0f2-4b6a-4ea6-b43f-555992fd66ca.png">
+<br>
+**Day 20 - 21 Snake Game**
+<br>
+Your Nokia Snake Game but my food is a Turtle.
+<br>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161677049-29c9cbbc-bb18-4ea6-99d8-00dde4ec1c0d.png">
+<br>
+**Day 19 Turtle Race**
+<br>
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/161677817-b07070b9-9302-454e-b73c-eb615706b2bb.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/161677710-0c7e9d5d-47da-4294-bffd-860681b25484.png"> 
+<br><img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161677751-dc75bbcd-d036-40dd-9d04-f05b7f37db13.png">
+
+
+
+
+
+
+
+-------------
 Python Learning AppBrewery #100daysofcode
 
 **BEGINNER**
@@ -16,6 +41,8 @@ Day 4
 
 Day 5
 - Loops
+- <img width="693" alt="image" src="https://user-images.githubusercontent.com/56638573/161674500-2ef948b3-3ddc-4a9f-8abb-ca494461f38f.png">
+
 
 Day 6
 - Functions and Karel
