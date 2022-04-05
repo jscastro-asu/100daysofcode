@@ -16,6 +16,8 @@ Day 4
 
 Day 5
 - Loops
+- <img width="693" alt="image" src="https://user-images.githubusercontent.com/56638573/161674500-2ef948b3-3ddc-4a9f-8abb-ca494461f38f.png">
+
 
 Day 6
 - Functions and Karel
