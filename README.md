@@ -7,7 +7,7 @@ Once you exit the game it downloads you a list of the remaining states you did n
 <br>
 **Day 20 - 21 Snake Game**
 <br>
-Your Nokia Snake Game
+Your Nokia Snake Game but my food is a Turtle.
 <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161677049-29c9cbbc-bb18-4ea6-99d8-00dde4ec1c0d.png">
 
