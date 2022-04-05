@@ -20,7 +20,7 @@ Place your bet:
 <br>
 Race is on:
 <br>
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161681582-6028af09-a9a6-4d96-8260-7b70e6da5ed1.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161681582-6028af09-a9a6-4d96-8260-7b70e6da5ed1.png">
 
 
 
