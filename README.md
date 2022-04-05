@@ -15,12 +15,12 @@ Your Nokia Snake Game but my food is a Turtle.
 <br>
 Place your bet:
 <br>
-<img width="100" alt="image" src="https://user-images.githubusercontent.com/56638573/161679702-7e4d4fde-fed7-47f6-9607-abd1ac16ae21.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/161679702-7e4d4fde-fed7-47f6-9607-abd1ac16ae21.png">
 <br>
 <br>
 Race is on:
 <br>
-<img width="495" alt="image" src="https://user-images.githubusercontent.com/56638573/161680808-91a3deb1-dc4d-4cff-86d9-837510cd859c.png">
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/56638573/161681582-6028af09-a9a6-4d96-8260-7b70e6da5ed1.png">
 
 
 
