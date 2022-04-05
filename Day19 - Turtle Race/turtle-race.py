@@ -1,6 +1,7 @@
 
 from turtle import Turtle, Screen
 import random
+import time
 
 
 s = Screen()
@@ -9,7 +10,7 @@ s.title("TURTLE RACE")
 
 
 start_race = False
-player_bet = s.textinput(title="What's your bet?", prompt="Pick a turtle color: \nYour options: \n> orange \n>blue \n>pink \n>red \n>violet \n>yellow \n>cyan")
+player_bet = s.textinput(title="What's your bet?", prompt="Pick a turtle color: \nYour options: \norange \nblue \npink \nred \nviolet \nyellow \ncyan")
 
 
 colors = ["orange", "blue", "pink", "red", "violet","yellow","cyan"]
@@ -52,14 +53,20 @@ while start_race:
 
         if racer.xcor() > 200: # this is the finish line if a racer got it to over 200 then that turtle color wins
             winner = racer.pencolor()
+            t.hideturtle()
+            t.color("black")
+            t.penup()
+            t.goto(0, 0)
+            
             start_race = False
-
-            # winner
+            t.clear()
+            t.write(f"The winner is {winner}!", align = "center", font = ("Impact",16,"bold"))
+            
+            # winner printscreen
             if winner == player_bet:
-                t.write(f"*YOUR {player_bet} TURTLE WON*", align = "center", font = ("Courier",24,"bold"))
+                print(f"Your {player_bet} turtle won.")
             else:
-                t.write(f"*THE {winner} TURTLE WON*", align = "center", font = ("Courier",24,"bold"))
-
+                print(f"{winner} turtle won.")
 
 
         #random turtle speed/distance
@@ -68,8 +75,6 @@ while start_race:
 
 
 
-
-
-s.exitonclick
+s.mainloop()
 
 
