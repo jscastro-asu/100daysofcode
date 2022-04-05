@@ -13,7 +13,8 @@ Your Nokia Snake Game but my food is a Turtle.
 <br>
 **Day 19 Turtle Race**
 <br>
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/161677710-0c7e9d5d-47da-4294-bffd-860681b25484.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161677751-dc75bbcd-d036-40dd-9d04-f05b7f37db13.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/161677817-b07070b9-9302-454e-b73c-eb615706b2bb.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/161677710-0c7e9d5d-47da-4294-bffd-860681b25484.png"> 
+<br><img width="500" alt="image" src="https://user-images.githubusercontent.com/56638573/161677751-dc75bbcd-d036-40dd-9d04-f05b7f37db13.png">
 
 
 
