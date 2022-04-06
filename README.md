@@ -7,7 +7,7 @@ Once you exit the game it downloads you a list of the remaining states you did n
 <br>
 **Day 22 Pong Game**
 <br>
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161908938-135db4a7-0f83-4fe3-9b72-80d7871f6105.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161909121-20b50630-44b4-4749-bb00-d4366f944697.png">
 <br>
 **Day 20 - 21 Snake Game**
 <br>
