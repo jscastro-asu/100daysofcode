@@ -17,3 +17,5 @@ class Paddle(Turtle):
     def scroll_down(self):
         y = self.ycor() - 20
         self.goto(self.xcor(), y)
+        
+
