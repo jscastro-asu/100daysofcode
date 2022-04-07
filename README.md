@@ -7,7 +7,7 @@ Once you exit the game it downloads you a list of the remaining states you did n
 <br>
 **DAY 23 TURTLE CROSSING GAME**
 <br>
-As scores increment when end of top screen is reached, the turtle goes back to start point then cars speeds up.<br>
+As scores increment when end of top screen is reached, the turtle goes back to start point then cars speed up.<br>
 If turtle had an accident, then game over.<br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/162206259-bbce98a4-b494-4c14-9282-00802f917851.png">
 <br>
