@@ -8,12 +8,12 @@ Once you exit the game it downloads you a list of the remaining states you did n
 **DAY 23 TURTLE CROSSING GAME**
 <br>
 As scores increment when end of top screen is reached, the turtle goes back to start point then cars speeds up.<br>
-If turtle had an accident, then game over.
+If turtle had an accident, then game over.<br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/162206259-bbce98a4-b494-4c14-9282-00802f917851.png">
 <br>
 **Day 22 Pong Game**
 <br>
-It's the old school game. Hit with paddle then bounces.
+It's the old school game. Hit with paddle then bounces.<br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161909121-20b50630-44b4-4749-bb00-d4366f944697.png">
 <br>
 **Day 20 - 21 Snake Game**
