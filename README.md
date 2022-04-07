@@ -1,9 +1,21 @@
 
 **Day 25 Guess the States**
 <br>
+Enter your state and it adds it on the map image at the exact coordinates of that state. 
 Once you exit the game it downloads you a list of the remaining states you did not guess.
 <br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161676392-9d86273d-967d-4e44-8020-8f817a27e1ff.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/161676485-1a63c0f2-4b6a-4ea6-b43f-555992fd66ca.png">
+<br>
+**DAY 23 TURTLE CROSSING GAME**
+<br>
+As scores increment when end of top screen is reached, the turtle goes back to start point then cars speed up.<br>
+If turtle had an accident, then game over.<br>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/162207665-6710dcfa-8ccb-44b9-a523-da0a950a61dd.png">
+<br>
+**Day 22 Pong Game**
+<br>
+It's the old school game. Hit with paddle then bounces.<br>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/161909121-20b50630-44b4-4749-bb00-d4366f944697.png">
 <br>
 **Day 20 - 21 Snake Game**
 <br>
