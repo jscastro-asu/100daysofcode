@@ -7,7 +7,7 @@ class Snake:
 
     #init the snake
     def __init__(self):
-        self.segment = [] # a list (of object) where the snake head is at
+        self.segment = [] # a list (of object) where the snake is at
         self.create_snake() # function call out
         self.head = self.segment[0]
     
@@ -22,13 +22,21 @@ class Snake:
         new_seg.penup()
         new_seg.goto(start) 
         self.segment.append(new_seg) 
+        
+    def reset_snake(self):
+        # this loop avoids the dead snake lingering in the screen by placing it to its graveyard
+        for s in self.segment:
+            s.goto(1000,1000)
+        # like the init
+        self.segment.clear()
+        self.create_snake()
+        self.head = self.segment[0]
 
     def extend(self):
-        #this is a turtle state which return the turtle’s current location (x,y)
+        # this is a turtle state which return the turtle’s current location (x,y)
         self.add_seg(self.segment[-1].position()) 
 
-
-    #move snake to previous location of the succeeding segments
+    # move snake to previous location of the succeeding segments
     def move_snake(self):
         # note start-stop-step; so tail follows the head whichever it goes
         for seg in range(len(self.segment) -1, 0, -1):
@@ -38,7 +46,6 @@ class Snake:
         self.segment[0].penup() # remove tail line
         self.head.forward(MOVE_DIST)
     
-
     #control snake
     def up(self):
         if self.head.heading() != 270: 

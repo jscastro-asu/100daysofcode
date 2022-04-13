@@ -3,6 +3,7 @@ from snake import Snake
 from food import Food
 from scoreboard import Scoreboard
 import time
+import shelve
 
 s = Screen()
 s.setup(width=600, height=600)
@@ -10,42 +11,45 @@ s.bgcolor("black")
 s.title("JEN SNAKE GAME")
 s.tracer(0)
 
-#create snake by calling from class
+# create snake by calling from class
 snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
 
-#control snake
+# control snake
 s.listen()
 s.onkey(snake.up, "Up")
 s.onkey(snake.down, "Down")
 s.onkey(snake.left, "Left")
 s.onkey(snake.right, "Right")
 
-#move snake
-end_game = False
-while not end_game:
+# move snake
+game_on = True
+while game_on:
     s.update() 
     time.sleep(0.10)
     snake.move_snake()
 
-    #detect food
+    # detect food
     if snake.head.distance(food) < 15:
         food.refresh()
         snake.extend()
         scoreboard.incr_score()
-        
 
-    #detect wall
+    # detect wall collision
     if snake.head.xcor() > 290 or snake.head.xcor() < -290 or snake.head.ycor() > 290 or snake.head.ycor() < -290:
-        end_game = True
-        scoreboard.game_over()
+        snake.reset_snake()
+        scoreboard.reset()
+       
+    # detect collision with tail , slicing
+    for seg in snake.segment:
+        if seg == snake.head:
+            pass
+        elif snake.head.distance(seg) < 10:
+            snake.reset_snake()
+            scoreboard.reset()
 
-    #detect collision with tail , slicing
-    for seg in snake.segment[1:]:
-        if snake.head.distance(seg) < 10:
-            end_game = True
-            scoreboard.game_over()
+            
 
 
     
