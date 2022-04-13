@@ -21,7 +21,7 @@ It's the old school game. Hit with paddle then bounces.<br>
 <br>
 Your Nokia Snake Game but my food is a Turtle. You get to keep highscore even after you exit the game.
 <br>
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/162222732-ac320d85-a722-4d32-b228-a8cf086a6596.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/163095512-7a37df1a-c5e7-47f4-b4ba-45819de4105d.png">
 <br>
 **Day 19 Turtle Race**
 <br>
