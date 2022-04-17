@@ -1,9 +1,9 @@
 **Day 27 GUI**
 <br>
-Created a login page, register page.
+Created a login page prompts success or fail message box.
 <br>
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/163732956-a38c9f61-c00a-446d-a405-d117257f245e.png">
-
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/56638573/163736190-2fd4ce12-f4db-4aaf-a4e9-63c5d6382829.png">
+<br>
 **Day 25 Guess the States**
 <br>
 Enter your state and it adds it on the map image at the exact coordinates of that state. 
