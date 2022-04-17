@@ -1,8 +1,8 @@
 **Day 27 GUI**
 <br>
-Created a login page prompts success or fail message box.
+Created a login page, replaces password with * and prompts success or fail message box.
 <br>
-<img width="371" alt="image" src="https://user-images.githubusercontent.com/56638573/163736190-2fd4ce12-f4db-4aaf-a4e9-63c5d6382829.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/163736440-062179fb-052e-4ec9-bd4d-e81538235f2f.png">
 <br>
 **Day 25 Guess the States**
 <br>
