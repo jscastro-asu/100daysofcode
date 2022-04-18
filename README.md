@@ -1,6 +1,6 @@
 **Day 27 GUI**
 <br>
-M to KM Converter
+M to KM Converter - this is to practice the use of grid instead if place and pack
 <br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163765656-938aaef2-3b1b-4511-913d-539bbe2b3980.png">
 
