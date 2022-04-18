@@ -16,16 +16,21 @@ Created my own login page
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163752243-54960455-73e2-4cae-8a86-f77b7ae3fd15.png">
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163752942-b5743941-2577-41f2-951a-dbb186177e06.png">
+
 
 
 
 <br>
 Created a login page, replaces password with * and prompts success or fail message box.
+
 <br>
+
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/163736440-062179fb-052e-4ec9-bd4d-e81538235f2f.png">
 <br>
 **Day 25 Guess the States**
 <br>
+
 Enter your state and it adds it on the map image at the exact coordinates of that state. 
 Once you exit the game it downloads you a list of the remaining states you did not guess.
 <br>
