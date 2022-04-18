@@ -42,5 +42,20 @@ Example:
 >>> names = ["Taruk", "Hammad", "Treshak", "Barraaaash", "Tommorrow"]
 >>> cap_ltr = [n.upper() for n in names if len(names) > 3]
 >>> print(cap_ltr)
-['TARUK', 'HAMMAD', 'TRESHAK', 'BARRAAAASH', 'TOMMORROW']
+['TARUK', 'HAMMAD', 'TRESHAK', 'BARRAAAASH', 'TOMORROW']
 >>> 
+
+DICTIONARY Comprehension
+
+new_dict = {new_key:new_value for item in list}
+new_dict = {new_key:new_value for (key, value) in dict.items() if test}
+
+PANDAS DF
+
+import pandas
+student_df = pandas.DataFrame(student_df)
+
+#LOOP through rows
+for (index, row) in student_df.iterrows():
+    if row.student == "Angela":
+        print(row.score)
