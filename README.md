@@ -1,3 +1,11 @@
+**Day 28 Pomodoro App - Tkinter**
+1. Start button - starts the Work for 25 minutes timer, once 25 minutes is over it goes to short break for 5 minutes. After 4 work time, it goes to a 20 minute Long break.
+2. Check mark shows up when 2 reps are completed.
+3. Reset Buttomn - places everything back to Timer label, 00:00 clock, and no check marks.
+<br>
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165000668-8ad7fd30-3f75-44d9-97c6-e13fec50d303.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165000865-540a41d9-863e-4cfa-972f-9ec6a78d3b95.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165000712-a958e296-6fb2-4bbf-bfd2-64ff10e9ecda.png">
+
+<br>
 **Day 27 GUI**
 <br>
 M to KM Converter - this is to practice the use of grid instead if place and pack
