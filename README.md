@@ -1,11 +1,11 @@
 **Day 29 Password Manager**
 <br>
-1. Cursorat website textbox when app is opened.
+1. Cursor should be at website textbox when app is opened.
 2. Email is auto-populated.
 3. Password changes to * when typing characters.
-4. Optional to generate new password
-5. Password generator (option)
-6. Save to a text file.
+4. If generated password it gives the unhidden plaintext random value.
+5. Optional - to generate new password, populates the password entry textbox
+7. When button Add is clicked it saves everything to a text file with message box prompt as a confirmation.
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165023664-6fd63cf9-a49a-4e8e-a204-3f11f8c20330.png">
 
 
