@@ -5,7 +5,7 @@
 3. Password changes to * when typing characters.
 4. If generated password it gives the unhidden plaintext random value.
 5. Optional - to generate new password, populates the password entry textbox
-7. When button Add is clicked it saves everything to a text file with message box prompt as a confirmation.
+7. When button Add is clicked it saves everything to a text file with message box prompt as a confirmation adn the fields should clear except the email.
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165023664-6fd63cf9-a49a-4e8e-a204-3f11f8c20330.png">
 
 
