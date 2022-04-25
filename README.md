@@ -1,12 +1,18 @@
 **Day 29 Password Manager**
 <br>
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165023017-00a04a05-1b37-44e6-9f73-4b7264ce679b.png">
+1. Cursorat website textbox when app is opened.
+2. Email is auto-populated.
+3. Password changes to * when typing characters.
+4. Optional to generate new password
+5. Password generator (option)
+6. Save to a text file.
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165023664-6fd63cf9-a49a-4e8e-a204-3f11f8c20330.png">
 
 
 **Day 28 Pomodoro App - Tkinter**
 1. Start button - starts the Work for 25 minutes timer, once 25 minutes is over it goes to short break for 5 minutes. After 4 work time, it goes to a 20 minute Long break.
 2. Check mark shows up when 2 reps are completed.
-3. Reset Buttomn - places everything back to Timer label, 00:00 clock, and no check marks.
+3. Reset Button - places everything back to Timer label, 00:00 clock, and no check marks.
 <br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165000668-8ad7fd30-3f75-44d9-97c6-e13fec50d303.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165000865-540a41d9-863e-4cfa-972f-9ec6a78d3b95.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/165000712-a958e296-6fb2-4bbf-bfd2-64ff10e9ecda.png">
 
