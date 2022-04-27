@@ -1,13 +1,12 @@
 **Day 29 Password Manager**
 <br>
-1. Cursor should be at website textbox when app is opened.
-2. Email is auto-populated.
-3. Password changes to * when typing characters.
-4. If generated password it gives the unhidden plaintext random value.
-5. Optional - to generate new password, populates the password entry textbox
-7. When button Add is clicked it saves everything to a text file with message box prompt as a confirmation adn the fields should clear except the email.
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165023664-6fd63cf9-a49a-4e8e-a204-3f11f8c20330.png">
-
+1. Cursor should be right at website textbox when app is opened.
+2. Email is auto-populated since I only use one email. It's changeable.
+3. Password changes to * when typing characters or when generating one.
+4. If "generate password" is clicked it gives random values in "*" with 8-16 length and it is auto-copied in your clipboard.
+5. When button Add is clicked it saves everything to a text file data.txt. There is a message box prompt as a confirmation that it was saved and the fields should clear except the email after clicking OK.
+<br>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165434601-d2b9eeda-e2f4-458e-a4f3-c6278fa5d428.png"><img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165434679-be58a12d-96ff-49ca-969d-7862e7c59502.png"><img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165434801-36709c61-f039-40e3-9b09-fdddc3ab99c9.png"><img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165435037-3c2d183e-efe4-47c0-9741-d4ed707b5305.png">
 
 **Day 28 Pomodoro App - Tkinter**
 1. Start button - starts the Work for 25 minutes timer, once 25 minutes is over it goes to short break for 5 minutes. After 4 work time, it goes to a 20 minute Long break.
