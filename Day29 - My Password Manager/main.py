@@ -1,39 +1,32 @@
 from tkinter import *
 from random import *
+from tkinter import messagebox
 import string
-
+import pyperclip
+characters = string.ascii_letters + string.punctuation  + string.digits
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def password_gen():
-    characters = string.ascii_letters + string.punctuation  + string.digits
-    password =  "".join(choice(characters) for x in range(randint(8, 16)))
-    password_textbox.insert(0,password)
-'''
-to solve:
+    password_textbox.delete(1,END)
+    password_var =  "".join(choice(characters) for x in range(randint(8, 16)))
+    password_textbox.insert(0, password_var)
+    pyperclip.copy(password_var)
+    randompw_button.config(text="Copied to Clipboard")
 
-the password entry textbox has to be empty first, only autopopulates 
-an unhidden random password when button for pw generator is clicked.
- 
-copy pw in clipboard
-
-messagebox "saved" when password had been written to txt file successfully
-
-data.txt should only appened written inputs and not override
- 
-'''
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save_entry():
-    my_file = open("data.txt", "w")
+    my_file = open("data.txt", "a")
     my_file.write(website_var.get() + " | ")
     my_file.write(email_var.get() + " | ")
-    my_file.write(password_var.get())
+    my_file.write(password_var.get() + "\n")
  
     website_var.set("")
     my_file.close()
     
     website_textbox.delete(0, END)
     password_textbox.delete(0, END)
-
+    return messagebox.showinfo("Add","Secret Saved.")
+   
 # ---------------------------- UI SETUP ------------------------------- #
 
 root = Tk()
@@ -68,14 +61,12 @@ password_label.grid(row=3, column=0, )
 password_textbox = Entry(textvariable = password_var, show = "*", width=21)
 password_textbox.grid(row=3, column=1, sticky='w')
 
-randompw_button = Button(text="Generate Password", font=("Tahoma", 13, "normal"), command=password_gen())
+randompw_button = Button(text="Generate Password", font=("Tahoma", 13, "normal"), command=lambda:password_gen())
 randompw_button.grid(row=3, column=1, sticky="e")
    
 
 add_button = Button(text="Add", width=36, font=("Tahoma", 13, "normal"), command=lambda:save_entry())
 add_button.grid(row=4, column=1, sticky = 'w', columnspan=2)
-
-
 
 
 root.mainloop()
