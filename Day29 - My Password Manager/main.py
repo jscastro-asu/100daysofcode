@@ -11,7 +11,6 @@ def password_gen():
     password_var =  "".join(choice(characters) for x in range(randint(8, 16)))
     password_textbox.insert(0, password_var)
     pyperclip.copy(password_var)
-    randompw_button.config(text="Copied to Clipboard")
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save_entry():
@@ -64,10 +63,8 @@ password_textbox.grid(row=3, column=1, sticky='w')
 randompw_button = Button(text="Generate Password", font=("Tahoma", 13, "normal"), command=lambda:password_gen())
 randompw_button.grid(row=3, column=1, sticky="e")
    
-
 add_button = Button(text="Add", width=36, font=("Tahoma", 13, "normal"), command=lambda:save_entry())
 add_button.grid(row=4, column=1, sticky = 'w', columnspan=2)
-
 
 root.mainloop()
 
