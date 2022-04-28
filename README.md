@@ -2,7 +2,7 @@
 <br>
 KW API generates different random weird KW quotes
 <br>
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/165690819-05fe422b-898b-48a5-80cd-ec1d18221c42.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/165690959-06474211-5107-4c22-8def-d1bbf4e71bdf.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/165690819-05fe422b-898b-48a5-80cd-ec1d18221c42.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/56638573/165690959-06474211-5107-4c22-8def-d1bbf4e71bdf.png">
 
 
 
@@ -40,17 +40,10 @@ Created my own login page
 5. When registration completes message box prompts, new welcome page comes up.
 <br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163751775-63b19b7d-529c-46a6-9ab7-f97ad9f2c4de.png">
-
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163752137-4572daf1-13f0-46e8-9991-935d597b30bb.png">
-
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163752190-76dc4af1-24c8-4b7a-9d6b-728ffabb0908.png">
-
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163752243-54960455-73e2-4cae-8a86-f77b7ae3fd15.png">
-
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/163752942-b5743941-2577-41f2-951a-dbb186177e06.png">
-
-
-
 
 <br>
 Created a login page, replaces password with * and prompts success or fail message box.
