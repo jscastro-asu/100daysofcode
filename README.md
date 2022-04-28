@@ -1,7 +1,8 @@
 **Day33 API Stuff**
 <br>
 KW API generates different random weird KW quotes
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165690819-05fe422b-898b-48a5-80cd-ec1d18221c42.png"><img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/165690959-06474211-5107-4c22-8def-d1bbf4e71bdf.png">
+<br>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/165690819-05fe422b-898b-48a5-80cd-ec1d18221c42.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/56638573/165690959-06474211-5107-4c22-8def-d1bbf4e71bdf.png">
 
 
 
