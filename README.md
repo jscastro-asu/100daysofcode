@@ -1,4 +1,4 @@
-**Day34 QuizBrain App **
+**Day34 QuizBrain App**
 <br>
 1. Generates 10 random questions from triviamedia API. (Boolean)
 2. Keeps score log
