@@ -1,3 +1,13 @@
+**Day34 QuizBrain App **
+<br>
+1. Generates 10 random questions from triviamedia API. (Boolean)
+2. Keeps score log
+3. When user answer is correct the white box turns green, otherwise it turns red.
+<br>
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/168453184-596eaf9d-4939-49be-b7a6-64d6897b98a1.png">
+<br>
+
+
 **Day33 API Stuff**
 <br>
 KW API generates different random weird KW quotes
