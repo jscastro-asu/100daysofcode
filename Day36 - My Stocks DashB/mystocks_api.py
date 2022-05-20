@@ -6,7 +6,7 @@ querystring = {"interval":"5min","function":"TIME_SERIES_INTRADAY","symbol":"MSF
 
 headers = {
 	"X-RapidAPI-Host": "alpha-vantage.p.rapidapi.com",
-	"X-RapidAPI-Key": "106bbad07emsh277341f7d7b0eaep14dfddjsn00a333346b73"
+	"X-RapidAPI-Key": "0000106bbad07emsh277341f7d7b0eaep14dfd0a333346b73" #fakekey
 }
 
 response = requests.request("GET", url, headers=headers, params=querystring)
