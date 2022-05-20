@@ -1,3 +1,12 @@
+**Day36**<br>
+Used API to get Stocks, News and SMS<br>
+1. This script is added to pythonanywhere to set up cadence of the sms. 
+2. It gets the today and yesterday tesla stocks and compares the closing cost.
+3. If > 5% then it sends me a text message with top 3 news articles consisting headlines and short portion of the article.
+<br>
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/56638573/169476544-19a78d30-d90b-444e-a1df-da1b95c6f50e.png">
+<br>
+
 **Day34 QuizBrain App**
 <br>
 1. Generates 10 random questions from triviamedia API. (Boolean)
