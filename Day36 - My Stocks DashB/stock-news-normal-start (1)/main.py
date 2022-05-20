@@ -1,5 +1,5 @@
 import requests
-from pprint import pprint
+from pprint import pprintå
 import os
 from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
@@ -47,7 +47,7 @@ percentage = abs((float(today_close_price) - float(yday_close_price)) / float(to
 print (percentage)
 
 # # whether stocks increase or decrease to still get a text message about it with news
-if percentage == 0.05497448619999245:
+if percentage == 0.05497448619999245: #adjusted for testing purposes
     news_params = {
         'apiKey': news_key,
         'q': 'Tesla',

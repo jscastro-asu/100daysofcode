@@ -16,15 +16,15 @@ api_key = 'eb07149c32dbbd6e36a656dcd475' #fake api key
 url = 'https://api.openweathermap.org/data/2.5/onecall'
 
 # twilio
-account_sid = os.environ['AC2c3e572c97581c41e7f02463474a68f5']
-auth_token = os.environ['4aa8dfa0d7e5aa929cadc1839b35ed38']
+account_sid = os.environ['AC2c3e572c97581c41e7f0002463474a'] #fake
+auth_token = os.environ['4aa8dfa0d7e5==aa929cadc1839b35'] #fake
 client = Client(account_sid, auth_token)
 
 message = client.messages \
                 .create(
                      body="Join Earth's mightiest heroes. Like Kevin Bacon.",
-                     from_='+19706618886',
-                     to='+12069004567'
+                     from_='+19706618886', #deprecated trial account
+                     to='+mynumberhere'
                  )
 
 print(message.sid)
