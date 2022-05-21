@@ -1,3 +1,10 @@
+**Day37**<br>
+Habit Tracker<br>
+1. Learned to use GET POST PUT and DELETE as well as secure authentication using headers.<br>
+URL: https://pixe.la/v1/users/jennielyn/graphs/habittracker.html <br>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56638573/169638367-99507703-9226-4cbd-b41c-4aad7cece9b3.png">
+
+
 **Day36**<br>
 Used API to get Stocks, News and SMS<br>
 1. This script is added to pythonanywhere to set up cadence of the sms. 
