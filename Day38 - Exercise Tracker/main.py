@@ -1,5 +1,6 @@
 import requests
 from time import gmtime, strftime
+import os
 
 d = strftime("%d/%m/%Y")
 t = strftime("%r ", gmtime())
@@ -9,9 +10,9 @@ WEIGHT = "weight in kg"
 HEIGHT = "height in cm"
 AGE = "your age"
 
-#fake api
-ID = 'bfihiubjivr'
-KEY = 'jdnfijnfdbjnfjkbndf;kgm494489848938993'
+
+ID = os.environ['NUTRITIONIX_ID']
+KEY = os.environ['NUTRITIONIX_KEY']
 
 headers = {
     'x-app-id': ID,
