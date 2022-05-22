@@ -1,3 +1,14 @@
+**Day38**<br>
+Workout tracker using Nutritionix API (exercise) and Sheety API (logging), logging it to Google sheets<br>
+1. Logs current formatted date and time 
+2. Places new logs by adding rows
+3. Auto calculates the calories
+
+
+https://user-images.githubusercontent.com/56638573/169683402-a02571e3-6fba-4bc4-a366-df085cf42934.mov
+
+
+
 **Day37**<br>
 Habit Tracker<br>
 1. Learned to use GET POST PUT and DELETE as well as secure authentication using headers.<br>
