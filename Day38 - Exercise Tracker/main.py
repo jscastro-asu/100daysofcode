@@ -6,12 +6,13 @@ d = strftime("%d/%m/%Y")
 t = strftime("%r ", gmtime())
 
 GENDER = "Female"
-WEIGHT = 68
-HEIGHT = 160
-AGE = 33
+WEIGHT = "weight in kg"
+HEIGHT = "height in cm"
+AGE = "your age"
 
-ID = 'cd024214'
-KEY = 'f5f1a3093b0be9d2ee78a16fffe562d9'
+#fake api
+ID = 'bfihiubjivr'
+KEY = 'jdnfijnfdbjnfjkbndf;kgm494489848938993'
 
 headers = {
     'x-app-id': ID,
