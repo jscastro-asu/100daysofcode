@@ -1,3 +1,11 @@
+**Day38**<br>
+Workout tracker using Sheety API, logging it to Google sheets<br>
+
+
+https://user-images.githubusercontent.com/56638573/169683402-a02571e3-6fba-4bc4-a366-df085cf42934.mov
+
+
+
 **Day37**<br>
 Habit Tracker<br>
 1. Learned to use GET POST PUT and DELETE as well as secure authentication using headers.<br>
