@@ -1,5 +1,5 @@
 **Day38**<br>
-Workout tracker using Nutritionix API (exercise) and Sheety API (logging), logging it to Google sheets<br>
+Workout tracker using Nutritionix API (exercise) and Sheety API (logging), logging it to Google sheets. Uses envvar<br>
 1. Logs current formatted date and time 
 2. Places new logs by adding rows
 3. Auto calculates the calories
