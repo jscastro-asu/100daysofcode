@@ -1,7 +1,6 @@
 import requests
 from time import gmtime, strftime
 
-# DATE 05/21/22,TIME 03:55:12 AM
 d = strftime("%d/%m/%Y")
 t = strftime("%r ", gmtime())
 
@@ -20,7 +19,7 @@ headers = {
 }
 
 endpoint = 'https://trackapi.nutritionix.com/v2/natural/exercise'
-sheety_endpoint = 'https://api.sheety.co/2b7fcdd23efec81c0733a53af4d2582e/myWorkouts/workouts'
+sheety_endpoint = 'https://api.sheety.co/REDACTED/myWorkouts/workouts'
 text = input("Enter today's workout: ")
 
 entry = {
