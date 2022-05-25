@@ -1,3 +1,12 @@
+**Day 42 and 43**<br>
+HTML/CSS
+
+Created my CV using HTML and CSS
+Link: 
+
+<img width="1301" alt="image" src="https://user-images.githubusercontent.com/56638573/170195215-84e4d1e1-9645-44f2-a423-9ab71a6d60fc.png">
+
+
 **Day38**<br>
 Workout tracker using Nutritionix API (exercise) and Sheety API (logging), logging it to Google sheets. Uses envvar<br>
 1. Logs current formatted date and time 
