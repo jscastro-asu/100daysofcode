@@ -4,7 +4,8 @@ HTML/CSS
 Created my CV using HTML and CSS
 Link: 
 
-<img width="1301" alt="image" src="https://user-images.githubusercontent.com/56638573/170195215-84e4d1e1-9645-44f2-a423-9ab71a6d60fc.png">
+<img width="1308" alt="image" src="https://user-images.githubusercontent.com/56638573/170195733-b7a4a704-2f6a-4a41-a9c0-fd1eea2410b4.png">
+
 
 
 **Day38**<br>
