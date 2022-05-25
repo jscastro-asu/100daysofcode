@@ -1,8 +1,8 @@
 **Day 42 and 43**<br>
 HTML/CSS
 
-Created my CV using HTML and CSS
-Link: 
+Created my CV using HTML and CSS<br>
+**Link:  https://jscastro-asu.github.io/cv-http/**
 
 <img width="1308" alt="image" src="https://user-images.githubusercontent.com/56638573/170195733-b7a4a704-2f6a-4a41-a9c0-fd1eea2410b4.png">
 
