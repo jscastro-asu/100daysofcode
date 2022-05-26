@@ -1,4 +1,4 @@
-**Day 42 and 43**<br>
+**Day 42 and 44**<br>
 HTML/CSS
 
 Created my CV using HTML and CSS<br>
