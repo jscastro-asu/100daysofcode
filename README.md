@@ -2,7 +2,7 @@
 HTML/CSS
 
 Created my CV using HTML and CSS<br>
-**Link:  "" <br>
+**Link: https://jscastro-asu.github.io/cv-http/** <br>
 
 <img width="1308" alt="image" src="https://user-images.githubusercontent.com/56638573/170433694-3e1d7fa8-bbdc-497c-bac8-bcbf1c6becc3.png">
 
