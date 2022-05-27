@@ -3,8 +3,8 @@ HTML/CSS
 
 Created my CV using HTML and CSS<br>
 **Link: https://jscastro-asu.github.io/cv-http/** <br>
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/56638573/170652008-30fb3956-9ee3-44a4-a826-e11350d1adb2.png">
 
-<img width="1308" alt="image" src="https://user-images.githubusercontent.com/56638573/170433694-3e1d7fa8-bbdc-497c-bac8-bcbf1c6becc3.png">
 
 **Day38**<br>
 Workout tracker using Nutritionix API (exercise) and Sheety API (logging), logging it to Google sheets. Uses envvar<br>
