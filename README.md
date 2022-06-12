@@ -1,5 +1,9 @@
 ** Day 48 Selenium**
 Signing up automation
+ 
+
+https://user-images.githubusercontent.com/56638573/173212183-cfdfc61a-53be-4886-9afb-e13e477e5460.mov
+
 
 
 **Day 42 and 44**<br>
