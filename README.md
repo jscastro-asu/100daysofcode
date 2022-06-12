@@ -1,9 +1,25 @@
+** Day 49 Automate Linkedin Job application using Selenium**
+1. Opens URL in chrome
+2. Logs me in with my username and password in my linkedin account
+3. selects the first easy apply job
+4. Saves the job for me
+
+<br>
+
+
+
+https://user-images.githubusercontent.com/56638573/173222300-25dc5095-f13c-469a-9f49-b9bb613bf2b6.mov
+
+
 ** Day 48 Selenium**
-Signing up automation
+Signing up automation<br>
  
 
-https://user-images.githubusercontent.com/56638573/173212183-cfdfc61a-53be-4886-9afb-e13e477e5460.mov
 
+https://user-images.githubusercontent.com/56638573/173222321-0f7b327d-126f-4b5b-b9a5-d989df8a71eb.mov
+
+
+<br>
 
 
 **Day 42 and 44**<br>
@@ -149,31 +165,21 @@ Race is on:
 
 
 
-
 -------------
-Python Learning AppBrewery #100daysofcode
-
-**BEGINNER**
 
 Day 1
 - Variables
 
-Day 2
-- Data Types and Manipulate Strings
+Day 2- Data Types and Manipulate Strings
 
-Day 3
-- Control Flow and Logical Operators
+Day 3- Control Flow and Logical Operators
 
-Day 4
-- Randomization and Lists
+Day 4- Randomization and Lists
 
 Day 5
 - Loops
 
-
-
-Day 6
-- Functions and Karel
+Day 6- Functions and Karel
 - This module is in Reeborg. Exercises with my answers are at:
 
 Hurdle 2 https://bit.ly/3m8okRl
@@ -181,37 +187,21 @@ Hurdle 3 https://bit.ly/30wy3t5
 Hurdle 4 https://bit.ly/3oY8JW8
 Maze https://bit.ly/3sgtiPK
 
-Day 7
-- Hangman Project
-- Used the following from previous modules
-  -for and while loops
-  -if/elif/else
-  -list
-  -for _ in range()
-  -modules
+Day 7- Hangman Project
   
- Day 8
- - Funcions with Inputs
- - Arguments and Parameters
+Day 8 - Funcions with Inputs- Arguments and Parameters
  
-Day 9
-- Dictionary
-- Nested dictionary
+Day 9- Dictionary
 
-Day 10
-- Functions with outputs
+Day 10- Functions with outputs
 
-Day 11
-- BlackJack Game Capstone
+Day 11- BlackJack Game Capstone
 
-Day 12
-- Scope and Number Guessing
+Day 12- Scope and Number Guessing
 
-Day 13
-- Debugging
+Day 13- Debugging
 
-Day 14
-- Higher Lower Game
+Day 14- Higher Lower Game
 
 **INTERMEDIATE**
 
@@ -235,15 +225,12 @@ Day16
 - Coffee Maker OOP
 - Money Machine OOP
 
-Day 17
-- Quiz Brain Game 
+Day 17- Quiz Brain Game 
 
-Day 18
-- Turtle Stuff - basic
+Day 18- Turtle Stuff - basic
 - Hirst Dots - expensive contemporary art automated
 
-Day 19
-- Etch-a-sketch game
+Day 19- Etch-a-sketch game
 - Turtle race game - race to a finish line
 
 Day 20 and 21
@@ -256,32 +243,23 @@ Day 20 and 21
 	6. detect wall collision
 	7. detect tail collision
 
-Day 22
-- Pong, arcade game
+Day 22- Pong, arcade game
 
-Day 23
-- Turtle crossing Capstone project
+Day 23- Turtle crossing Capstone project
 
-Day 24
-- Files Ditectories Paths
+Day 24- Files Ditectories Paths
 
-Day 25
-- CSV data and Pandas Lib
+Day 25- CSV data and Pandas Lib
 
-Day 26
-- List comprehension and NATO alphabet
+Day 26- List comprehension and NATO alphabet
 
-Day 27
-- Tkinter. *args, **kwargs and GUI
+Day 27- Tkinter. *args, **kwargs and GUI
 
-Day 28
-- Dynamic Typing and Pomodoro Gui App
+Day 28- Dynamic Typing and Pomodoro Gui App
 
-Day 29
-- Password manager GUI app with Tkinter
+Day 29- Password manager GUI app with Tkinter
 
-Day 30
-- Errors, Exceptions and JSON data
+Day 30- Errors, Exceptions and JSON data
 
 
 
