@@ -1,3 +1,18 @@
+** Day 51 Tweet my Speed **
+1. Opens speedtest.net
+2. Runs the speedtest. Keeps the speed record.
+3. Opens twitter. Authenticate twitter.
+4. Tweet my speed then post.
+
+<br>
+
+
+https://user-images.githubusercontent.com/56638573/173478069-80e7ee26-e2ce-467c-86f9-34bf29c0068c.mp4
+
+
+<br>
+
+
 ** Day 49 Automate Linkedin Job application using Selenium**
 1. Opens URL in chrome
 2. Logs me in with my username and password in my linkedin account
